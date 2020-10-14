@@ -8,3 +8,7 @@ button {
     color:darkmagenta;
     font-family: 'Berkshire Swash', cursive;
 }
+img {
+    height:500px;
+    width:500px;
+}
