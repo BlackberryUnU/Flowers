@@ -4,8 +4,8 @@ body {
 }
 button {
     align-items:center;
-    background-color:mediumvioletred;
-    color:darkmagenta;
+    background-color:darkmagenta;
+    color:purple;
     font-family: 'Berkshire Swash', cursive;
 }
 img {
