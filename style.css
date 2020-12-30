@@ -1,11 +1,11 @@
 body {
-    background-color:green;
+    background-color:limegreen;
     color:maroon;
     font-family: 'Dancing Script', cursive;
 }
 button {
     align-items:center;
-    background-color:green;
+    background-color:limegreen;
     color:maroon;
     font-family: 'Dancing Script', cursive;
 }
@@ -13,4 +13,10 @@ img {
     align-items:center;
     height:664px;
     width:664px;
+}
+h2{
+    align-items:center;
+    background-color:green;
+    color:#5c0000;
+    font-family:'Dancing Script', cursive;
 }
