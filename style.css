@@ -1,13 +1,13 @@
 body {
-    background-color:Midnightblue;
-    color:white;
-    font-family: 'Sansita Swashed', cursive;
+    background-color:Goldenrod;
+    color:indigo;
+    font-family: 'Caveat', cursive;
 }
 button {
     align-items:center;
-    background-color:Midnightblue;
-    color:white;
-    font-family: 'Sansita Swashed', cursive;
+    background-color:goldenrod;
+    color:indigo;
+    font-family: 'Caveat', cursive;
 }
 img {
     align-items:center;
