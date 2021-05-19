@@ -1,16 +1,16 @@
 body {
-    background-color:#9c004b;
-    color:#000000;
+    background-color:#699e00;
+    color:#0f1700;
     font-family: 'Dancing Script', cursive;
     font-size:20px;
 }
 button {
     align-items:center;
-    background-color:#9c004b;
-    color:#000000;
+    background-color:#699e00;
+    color:#0f1700;
     font-family: 'Dancing Script', cursive;
     font-size:15px;
-    border-color:#000000;
+    border-color:#0f1700;
 }
 img {
     align-items:center;
