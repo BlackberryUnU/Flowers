@@ -2,12 +2,14 @@ body {
     background-color:Goldenrod;
     color:indigo;
     font-family: 'Caveat', cursive;
+    font-size:40px;
 }
 button {
     align-items:center;
     background-color:goldenrod;
     color:indigo;
     font-family: 'Caveat', cursive;
+    font-size:30px;
 }
 img {
     align-items:center;
