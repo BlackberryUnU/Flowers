@@ -1,0 +1,14 @@
+body {
+    background-color:#004882;
+    color:#00011c;
+    font-family: 'Dancing Script', cursive;
+    font-size:20px;
+}
+button {
+    align-items:center;
+    background-color:#003c6d;
+    color:#00011c;
+    font-family: 'Dancing Script', cursive;
+    font-size:15px;
+    border-color:#00011c;
+}
